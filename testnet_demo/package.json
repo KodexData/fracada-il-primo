@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@blockfrost/blockfrost-js": "^4.1.0",
-    "@emurgo/cardano-serialization-lib-nodejs": "^10.0.4",
+    "@emurgo/cardano-serialization-lib-nodejs": "^10.2.0",
     "bip39": "^3.0.4",
     "cardano-addresses": "^3.9.0",
     "execa": "5.1.1",
